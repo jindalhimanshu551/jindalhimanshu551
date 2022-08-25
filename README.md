@@ -1,8 +1,7 @@
 ### Hi there 👋
 <p align="center"><img align="center" alt="Coding" width="100%"  src="https://github.com/jindalhimanshu551/jindalhimanshu551/blob/main/Banner.gif"></p>
-<div>
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</div>
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450px" height="300px" alt=gif align="right">
+
 
 <!--
 **jindalhimanshu551/jindalhimanshu551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
