@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="center"><img align="center" alt="Coding" width="100%"  src="https://github.com/jindalhimanshu551/jindalhimanshu551/blob/main/Banner.gif"></p>
 <div>
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
